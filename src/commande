@@ -1,0 +1,2 @@
+pyuic5 input.ui -o output.py
+pyrcc5 -o resources.py resource.qrc
